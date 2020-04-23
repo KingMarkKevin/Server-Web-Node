@@ -1,0 +1,23 @@
+{
+  "name": "express_static_files",
+  "version": "1.0.0",
+  "description": "EXPRESS FILES",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingMarkKevin/Server-Web-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingMarkKevin/Server-Web-Node/issues"
+  },
+  "homepage": "https://github.com/KingMarkKevin/Server-Web-Node#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1"
+  }
+}
